@@ -236,3 +236,12 @@ console.log(result);
 
 // }
 // obj1.getName();
+
+
+
+
+const arr=[1,2,3];
+arr[Symbol.iterator]=num;
+for (const num of arr){
+    console.log(num);
+}

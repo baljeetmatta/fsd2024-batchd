@@ -22,10 +22,10 @@
 
 // }))
 // console.log(elements);
-function test()
-{
+// function test()
+// {
 
 
-var element=document.querySelector("#box");
-element.value="Initial -";
-}
+// var element=document.querySelector("#box");
+// element.value="Initial -";
+// }
